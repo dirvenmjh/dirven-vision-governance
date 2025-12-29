@@ -1,0 +1,20 @@
+{
+  "books": [
+    {
+      "id": "dirven's_vision_for_world_governance",
+      "title": "Dirven's Vision for World Governance",
+      "path": "books\\dirven's_vision_for_world_governance",
+      "created": "2025-12-29T06:52:04.068597"
+    },
+    {
+      "id": "dirven's_vision_for_world_governance",
+      "title": "Dirven's Vision for World Governance",
+      "path": "books\\dirven's_vision_for_world_governance",
+      "created": "2025-12-29T06:52:13.137817"
+    }
+  ],
+  "github": {
+    "repo": "dirvenmjh/dirven",
+    "token": "***"
+  }
+}
